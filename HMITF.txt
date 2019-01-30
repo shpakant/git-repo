@@ -7,5 +7,7 @@ Does the fish have chips?
 The learning process
 Never slow down!!!
 Fish is jumping :)
+<<<<<<< HEAD
 See you later
 BlaBlaBla
+See you smile
